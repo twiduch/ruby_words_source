@@ -1,7 +1,7 @@
 # Solution
 
-I used __'strategy'__ pattern to decouple source of words from implementation  
-For callbacks I used __'pub/sub'__ (or 'observer') pattern  
+__'strategy'__ pattern to decouple source of words from implementation  
+For callbacks  __'pub/sub'__ (or 'observer') pattern  
 
 ## How to use
 
